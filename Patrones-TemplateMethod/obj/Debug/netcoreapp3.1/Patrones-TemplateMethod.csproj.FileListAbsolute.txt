@@ -1,0 +1,14 @@
+E:\unity\quark\Patrones\Patrones-TemplateMethod\Patrones-TemplateMethod\bin\Debug\netcoreapp3.1\Patrones-TemplateMethod.exe
+E:\unity\quark\Patrones\Patrones-TemplateMethod\Patrones-TemplateMethod\bin\Debug\netcoreapp3.1\Patrones-TemplateMethod.deps.json
+E:\unity\quark\Patrones\Patrones-TemplateMethod\Patrones-TemplateMethod\bin\Debug\netcoreapp3.1\Patrones-TemplateMethod.runtimeconfig.json
+E:\unity\quark\Patrones\Patrones-TemplateMethod\Patrones-TemplateMethod\bin\Debug\netcoreapp3.1\Patrones-TemplateMethod.runtimeconfig.dev.json
+E:\unity\quark\Patrones\Patrones-TemplateMethod\Patrones-TemplateMethod\bin\Debug\netcoreapp3.1\Patrones-TemplateMethod.dll
+E:\unity\quark\Patrones\Patrones-TemplateMethod\Patrones-TemplateMethod\bin\Debug\netcoreapp3.1\Patrones-TemplateMethod.pdb
+E:\unity\quark\Patrones\Patrones-TemplateMethod\Patrones-TemplateMethod\obj\Debug\netcoreapp3.1\Patrones-TemplateMethod.csproj.AssemblyReference.cache
+E:\unity\quark\Patrones\Patrones-TemplateMethod\Patrones-TemplateMethod\obj\Debug\netcoreapp3.1\Patrones-TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\unity\quark\Patrones\Patrones-TemplateMethod\Patrones-TemplateMethod\obj\Debug\netcoreapp3.1\Patrones-TemplateMethod.AssemblyInfoInputs.cache
+E:\unity\quark\Patrones\Patrones-TemplateMethod\Patrones-TemplateMethod\obj\Debug\netcoreapp3.1\Patrones-TemplateMethod.AssemblyInfo.cs
+E:\unity\quark\Patrones\Patrones-TemplateMethod\Patrones-TemplateMethod\obj\Debug\netcoreapp3.1\Patrones-TemplateMethod.csproj.CoreCompileInputs.cache
+E:\unity\quark\Patrones\Patrones-TemplateMethod\Patrones-TemplateMethod\obj\Debug\netcoreapp3.1\Patrones-TemplateMethod.dll
+E:\unity\quark\Patrones\Patrones-TemplateMethod\Patrones-TemplateMethod\obj\Debug\netcoreapp3.1\Patrones-TemplateMethod.pdb
+E:\unity\quark\Patrones\Patrones-TemplateMethod\Patrones-TemplateMethod\obj\Debug\netcoreapp3.1\Patrones-TemplateMethod.genruntimeconfig.cache
